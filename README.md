@@ -26,7 +26,7 @@
 
 ## 🏆 Honors and Rewards + Experiences
 * Academic Scholarship, Ajou University, Dec.2020
-* Dean's List, Ajou University, Dec.2020
+* Dean's List (1st), Ajou University, Dec.2020
 * 23rd, APC (Ajou Programming Contest), May.2019
 * 156th (8th in Ajou Univ.), ACM-ICPC, Oct.2019
 * 2670th (36th at South Korea), Google Hashcode, Feb.2020
