@@ -17,9 +17,8 @@
 ## 📬 Contact Me
 * 📧 <akim9905@gmail.com>
 
-
-### for CV (to be updated.)
 ---
+### for CV (to be updated.)
 
 ## 🎓 Education
 * Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
