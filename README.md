@@ -23,7 +23,7 @@
 
 ## 🎓 Education
 * Department of Software and Computer Engineering, Ajou University, Mar.2019 ~ Present
-* GPA: 4.28 / 4.5, Major GPA: 4.35 / 4.5 (Mar.2019 ~ Dec.2020)
+* GPA: 4.28 / 4.5, Major GPA: 4.38 / 4.5 (Mar.2019 ~ Dec.2020)
 
 ## 🏆 Honors and Rewards + Experiences
 * Academic Scholarship, Ajou University, Dec.2020
