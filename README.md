@@ -16,7 +16,7 @@
 <!-- * Codeforces : [MYUNBIN](https://codeforces.com/profile/MYUNBIN) [![](https://run.kaist.ac.kr/badges/codeforces/MYUNBIN.svg)](https://codeforces.com/profile/MYUNBIN) -->
 
 ## 📬 Contact Me
-* [📧](akim9905@gmail.com)
+* [📧]<akim9905@gmail.com>
 
 ---
 ### for CV (to be updated.)
