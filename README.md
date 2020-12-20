@@ -17,7 +17,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akim9905)](https://solved.ac/akim9905)
 
-![Hyunbin Kim's github stats](https://github-readme-stats.vercel.app/api?username=myunbin&theme=monokai&show_icons=true)
+![myunbin's github stats](https://github-readme-stats.vercel.app/api?username=myunbin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <!-- * Codeforces : [MYUNBIN](https://codeforces.com/profile/MYUNBIN) [![](https://run.kaist.ac.kr/badges/codeforces/MYUNBIN.svg)](https://codeforces.com/profile/MYUNBIN) -->
 
 ## 📬 Contact Me
