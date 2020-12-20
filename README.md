@@ -14,10 +14,10 @@
 * BOJ(Baekjoon Online Judge) : [akim9905](http://icpc.me/akim9905)
 * Click the card below to get more information about me in BOJ. ([solved.ac](http://solved.ac))
 
-[![akim9905's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akim9905)](https://solved.ac/profile/akim9905)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akim9905)](https://solved.ac/akim9905)
 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myunbin)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyunbin Kim's github stats](https://github-readme-stats.vercel.app/api?username=myunbin)](https://github.com/anuraghazra/github-readme-stats)
 <!-- * Codeforces : [MYUNBIN](https://codeforces.com/profile/MYUNBIN) [![](https://run.kaist.ac.kr/badges/codeforces/MYUNBIN.svg)](https://codeforces.com/profile/MYUNBIN) -->
 
 ## 📬 Contact Me
