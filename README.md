@@ -15,8 +15,7 @@
 * BOJ(Baekjoon Online Judge) : [akim9905](http://icpc.me/akim9905)
 * Click the card below to get more information about me in BOJ. ([solved.ac](http://solved.ac))
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=akim9905)](https://solved.ac/akim9905)
+
 
 ![myunbin's github stats](https://github-readme-stats.vercel.app/api?username=myunbin&bg_color=30,8bcdcd,583d72&title_color=fff&text_color=fff)
 
