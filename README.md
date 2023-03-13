@@ -1,7 +1,12 @@
 # Hyunbin Kim
 
+
+## Profile
+- [Baekjoon Online Judge](https://www.acmicpc.net/user/akim9905)
+- [solved.ac](https://solved.ac/profile/akim9905)
+
 ## Activities
-I solve problems. [akim9905](https://www.acmicpc.net/user/akim9905)
+I solve problems. 
 
 - ICPC(International Collegiate Programming Contest)
   - 156th in 2019 Seoul Regional Preliminary Contest (Bonseon10000)
