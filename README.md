@@ -15,7 +15,7 @@ I solve problems.
 - Problem Setter/Director
   - Problem Setter, [2022 APC(Ajou Programming Contest)](https://www.acmicpc.net/category/detail/3219)
   - Director & Problem Setter, [2022 shake!(Kyongin Regional College Union Programming Contest)](https://www.acmicpc.net/category/detail/3557)
-  - Director & Problem Setter, 2023 APC(Ajou Programming Contest)
+  - Director & Problem Setter, [2023 APC(Ajou Programming Contest)](https://www.acmicpc.net/category/848)
 
 ## Education
 - GPA 4.3 / 4.5
