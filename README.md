@@ -20,3 +20,6 @@ I solve problems.
 ## Education
 - GPA 4.3 / 4.5
 - March.2019 ~ Present : Ajou University, Department of Software and Computer Engineering
+
+## Contact Me
+- via [email](mailto:akim9905@ajou.ac.kr)
