@@ -9,9 +9,8 @@ I solve problems.
 
 ## Activities
 - ICPC(International Collegiate Programming Contest)
-  - 156th in 2019 Seoul Regional Preliminary Contest (Bonseon10000)
-  - 92th in 2022 Seoul Regional Preliminary Contest (LEFTOVER_CHICKEN)
   - 59th in 2022 Seoul Regional (LEFTOVER_CHICKEN)
+  - 34th in 2023 Seoul Regional (Kimchi_Fridge)
 - Problem Setter/Director
   - Problem Setter, [2022 APC(Ajou Programming Contest)](https://www.acmicpc.net/category/detail/3219)
   - Director & Problem Setter, [2022 shake!(Kyongin Regional College Union Programming Contest)](https://www.acmicpc.net/category/detail/3557)
