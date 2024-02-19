@@ -18,7 +18,7 @@ I solve problems.
   - Director & Problem Setter, [2023 shake!(Kyongin Regional College Union Programming Contest)](https://www.acmicpc.net/category/detail/4121)
 
 ## Education
-- GPA 4.3 / 4.5
+- GPA 4.33 / 4.5 (Major GPA : 4.42 / 4.5)
 - March.2019 ~ Present : Ajou University, Department of Software and Computer Engineering
 
 ## Contact Me
